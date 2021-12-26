@@ -6,12 +6,6 @@
 Etch-a-Sketch application using vanilla Javascript, HTML, and CSS.
 
 
-
-## **Author**
-
-Aidan Curley as part of The Odin Project.
-
-
 ## **Contributing**
 
 **How to contribute**
